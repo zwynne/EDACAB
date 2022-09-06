@@ -1,1 +1,10 @@
 numpy
+matplotlib
+json
+requests
+pandas
+urllib
+scipy
+socketio
+IPython
+time
