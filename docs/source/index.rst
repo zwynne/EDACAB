@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to the 2022 EDACAB Data-driven Conference!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The Efficient Data Analysis for the Condition Assessment of Bridges (EDACAB) data-driven conference is a collaboration between the University of Edinburgh and Chongqing University. Funding for the EDACAB collaboration is provide by the Royal Society of Edinburgh.
 
 .. note::
 
