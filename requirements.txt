@@ -5,3 +5,4 @@ pandas==1.0.4
 urllib3==1.26.8
 scipy==1.4.1
 python-socketio==5.3.0
+nbsphinx==0.2.14
