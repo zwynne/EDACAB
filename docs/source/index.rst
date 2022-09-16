@@ -14,3 +14,4 @@ Contents
 
    usage
    api
+   Welcome_page_and_tutorials/Simple notebook
