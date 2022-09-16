@@ -14,3 +14,4 @@ Contents
 
    usage
    api
+   Welcome_page_and_tutorials/000_EDACAB_Welcome_and_contents
