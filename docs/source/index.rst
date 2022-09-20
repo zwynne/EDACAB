@@ -13,4 +13,6 @@ Contents
 .. toctree::
 
    Welcome_page_and_tutorials/000_EDACAB_Welcome_and_contents
-   Welcome_page_and_tutorials/ZW_Example_notebook
+   Welcome_page_and_tutorials/005_Shaker_table_data_introduction
+   Welcome_page_and_tutorials/006_LT2_static_data_introduction_notebook
+   Welcome_page_and_tutorials/007_LT2_live_data_introduction_notebook
