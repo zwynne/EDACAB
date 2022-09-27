@@ -34,3 +34,4 @@ html_theme = 'sphinx_rtd_theme'
 html_favicon = 'uoe.ico'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+html_static_path = '_static'
