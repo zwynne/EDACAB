@@ -29,7 +29,7 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-html_static_path = [""]
+html_static_path = ["_static"]
 html_theme = 'sphinx_rtd_theme'
 html_favicon = 'uoe.ico'
 # -- Options for EPUB output
