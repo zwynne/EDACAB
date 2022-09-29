@@ -22,3 +22,4 @@ Contents
    Welcome_page_and_tutorials/006_LT2_static_data_introduction_notebook
    Welcome_page_and_tutorials/007_LT2_live_data_introduction_notebook
    Welcome_page_and_tutorials/010_FAQS
+   Welcome_page_and_tutorials/011_EDACAB_2020
