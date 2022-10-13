@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'EDACAB'
+project = 'EDACABB'
 copyright = '2022, University of Edinburgh'
 author = 'Zachariah Wynne'
 
